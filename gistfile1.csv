@@ -1,4 +1,4 @@
-rank,city,state,population,2000-2013 growth
+rank,city,state,population,growth
 1,New York,New York,8405837,0.05
 2,Los Angeles,California,3884307,0.05
 3,Chicago,Illinois,2718782,-0.06
@@ -25,11 +25,11 @@ rank,city,state,population,2000-2013 growth
 24,Boston,Massachusetts,645966,0.09
 25,Nashville-Davidson,Tennessee,634464,0.16
 26,Baltimore,Maryland,622104,-0.04
-27,Oklahoma City,Oklahoma,610613,0.20
-28,Louisville/Jefferson County,Kentucky,609893,0.10
+27,Oklahoma City,Oklahoma,610613,0.2
+28,Louisville/Jefferson County,Kentucky,609893,0.1
 29,Portland,Oregon,609456,0.15
 30,Las Vegas,Nevada,603488,0.25
-31,Milwaukee,Wisconsin,599164,0.00
+31,Milwaukee,Wisconsin,599164,0
 32,Albuquerque,New Mexico,556495,0.24
 33,Tucson,Arizona,526116,0.08
 34,Fresno,California,509924,0.18
@@ -47,7 +47,7 @@ rank,city,state,population,2000-2013 growth
 46,Minneapolis,Minnesota,400070,0.05
 47,Tulsa,Oklahoma,398121,0.01
 48,Cleveland,Ohio,390113,-0.18
-49,Wichita,Kansas,386552,0.10
+49,Wichita,Kansas,386552,0.1
 50,Arlington,Texas,379577,0.13
 51,New Orleans,Louisiana,378715,-0.22
 52,Bakersfield,California,363630,0.48
@@ -63,9 +63,9 @@ rank,city,state,population,2000-2013 growth
 62,Pittsburgh,Pennsylvania,305841,-0.08
 63,Anchorage,Alaska,300950,0.15
 64,Stockton,California,298118,0.22
-65,Cincinnati,Ohio,297517,-0.10
+65,Cincinnati,Ohio,297517,-0.1
 66,St. Paul,Minnesota,294873,0.03
-67,Toledo,Ohio,282313,-0.10
+67,Toledo,Ohio,282313,-0.1
 68,Greensboro,North Carolina,279639,0.22
 69,Newark,New Jersey,278427,0.02
 70,Plano,Texas,274409,0.22
@@ -76,13 +76,13 @@ rank,city,state,population,2000-2013 growth
 75,Chula Vista,California,256780,0.46
 76,Fort Wayne,Indiana,256496,0.01
 77,Orlando,Florida,255483,0.31
-78,St. Petersburg,Florida,249688,0.00
+78,St. Petersburg,Florida,249688,0
 79,Chandler,Arizona,249146,0.39
 80,Laredo,Texas,248142,0.38
 81,Norfolk,Virginia,246139,0.05
-82,Durham,North Carolina,245475,0.30
+82,Durham,North Carolina,245475,0.3
 83,Madison,Wisconsin,243344,0.16
-84,Lubbock,Texas,239538,0.20
+84,Lubbock,Texas,239538,0.2
 85,Irvine,California,236716,0.61
 86,Winston-Salem,North Carolina,236441,0.17
 87,Glendale,Arizona,234632,0.06
@@ -91,12 +91,12 @@ rank,city,state,population,2000-2013 growth
 90,Reno,Nevada,233294,0.27
 91,Chesapeake,Virginia,230571,0.15
 92,Gilbert,Arizona,229972,0.96
-93,Baton Rouge,Louisiana,229426,0.00
+93,Baton Rouge,Louisiana,229426,0
 94,Irving,Texas,228653,0.19
 95,Scottsdale,Arizona,226918,0.11
 96,North Las Vegas,Nevada,226877,0.92
-97,Fremont,California,224922,0.10
-98,Boise City,Idaho,214237,0.10
+97,Fremont,California,224922,0.1
+98,Boise City,Idaho,214237,0.1
 99,Richmond,Virginia,214114,0.08
 100,San Bernardino,California,213708,0.13
 101,Birmingham,Alabama,212113,-0.12
@@ -109,9 +109,9 @@ rank,city,state,population,2000-2013 growth
 108,Oxnard,California,203007,0.18
 109,Fontana,California,203003,0.38
 110,Columbus,Georgia,202824,0.09
-111,Montgomery,Alabama,201332,0.00
-112,Moreno Valley,California,201175,0.40
-113,Shreveport,Louisiana,200327,0.00
+111,Montgomery,Alabama,201332,0
+112,Moreno Valley,California,201175,0.4
+113,Shreveport,Louisiana,200327,0
 114,Aurora,Illinois,199963,0.38
 115,Yonkers,New York,199766,0.02
 116,Akron,Ohio,198100,-0.09
@@ -119,7 +119,7 @@ rank,city,state,population,2000-2013 growth
 118,Little Rock,Arkansas,197357,0.08
 119,Augusta-Richmond County,Georgia,197350,0.01
 120,Amarillo,Texas,196429,0.13
-121,Glendale,California,196021,0.00
+121,Glendale,California,196021,0
 122,Mobile,Alabama,194899,-0.02
 123,Grand Rapids,Michigan,192294,-0.03
 124,Salt Lake City,Utah,191180,0.05
@@ -144,7 +144,7 @@ rank,city,state,population,2000-2013 growth
 143,Tempe,Arizona,168228,0.06
 144,Ontario,California,167500,0.06
 145,Vancouver,Washington,167405,0.14
-146,Cape Coral,Florida,165831,0.60
+146,Cape Coral,Florida,165831,0.6
 147,Sioux Falls,South Dakota,164676,0.31
 148,Springfield,Missouri,164122,0.08
 149,Peoria,Arizona,162592,0.47
@@ -182,7 +182,7 @@ rank,city,state,population,2000-2013 growth
 181,Clarksville,Tennessee,142357,0.37
 182,Orange,California,139969,0.08
 183,Pasadena,California,139731,0.04
-184,Fullerton,California,138981,0.10
+184,Fullerton,California,138981,0.1
 185,Killeen,Texas,137147,0.52
 186,Frisco,Texas,136791,2.88
 187,Hampton,Virginia,136699,-0.07
@@ -191,12 +191,12 @@ rank,city,state,population,2000-2013 growth
 190,Bellevue,Washington,133992,0.19
 191,West Valley City,Utah,133579,0.22
 192,Columbia,South Carolina,133358,0.12
-193,Olathe,Kansas,131885,0.40
+193,Olathe,Kansas,131885,0.4
 194,Sterling Heights,Michigan,131224,0.05
 195,New Haven,Connecticut,130660,0.06
 196,Miramar,Florida,130288,0.75
 197,Waco,Texas,129030,0.13
-198,Thousand Oaks,California,128731,0.10
+198,Thousand Oaks,California,128731,0.1
 199,Cedar Rapids,Iowa,128429,0.05
 200,Charleston,South Carolina,127999,0.29
 201,Visalia,California,127763,0.34
@@ -213,7 +213,7 @@ rank,city,state,population,2000-2013 growth
 212,Hartford,Connecticut,125017,0.01
 213,Kent,Washington,124435,0.54
 214,Lafayette,Louisiana,124276,0.11
-215,Midland,Texas,123933,0.30
+215,Midland,Texas,123933,0.3
 216,Surprise,Arizona,123546,2.82
 217,Denton,Texas,123099,0.47
 218,Victorville,California,121096,0.88
@@ -231,8 +231,8 @@ rank,city,state,population,2000-2013 growth
 230,Springfield,Illinois,117006,0.04
 231,Berkeley,California,116768,0.13
 232,Peoria,Illinois,116513,0.03
-233,Provo,Utah,116288,0.10
-234,El Monte,California,115708,0.00
+233,Provo,Utah,116288,0.1
+234,El Monte,California,115708,0
 235,Columbia,Missouri,115276,0.34
 236,Lansing,Michigan,113972,-0.04
 237,Fargo,North Dakota,113658,0.25
@@ -242,7 +242,7 @@ rank,city,state,population,2000-2013 growth
 241,Arvada,Colorado,111707,0.09
 242,Inglewood,California,111542,-0.01
 243,Miami Gardens,Florida,111378,0.11
-244,Carlsbad,California,110972,0.40
+244,Carlsbad,California,110972,0.4
 245,Westminster,Colorado,110945,0.09
 246,Rochester,Minnesota,110742,0.24
 247,Odessa,Texas,110720,0.22
@@ -250,7 +250,7 @@ rank,city,state,population,2000-2013 growth
 249,Elgin,Illinois,110145,0.16
 250,West Jordan,Utah,110077,0.38
 251,Round Rock,Texas,109821,0.81
-252,Clearwater,Florida,109703,0.00
+252,Clearwater,Florida,109703,0
 253,Waterbury,Connecticut,109676,0.02
 254,Gresham,Oregon,109397,0.21
 255,Fairfield,California,109320,0.13
@@ -282,7 +282,7 @@ rank,city,state,population,2000-2013 growth
 281,Santa Maria,California,102216,0.31
 282,El Cajon,California,102211,0.07
 283,Davenport,Iowa,102157,0.04
-284,Rialto,California,101910,0.10
+284,Rialto,California,101910,0.1
 285,Las Cruces,New Mexico,101324,0.38
 286,San Mateo,California,101128,0.09
 287,Lewisville,Texas,101074,0.29
@@ -292,15 +292,15 @@ rank,city,state,population,2000-2013 growth
 291,Tyler,Texas,100223,0.19
 292,Pearland,Texas,100065,1.17
 293,College Station,Texas,100050,0.45
-294,Kenosha,Wisconsin,99889,0.10
+294,Kenosha,Wisconsin,99889,0.1
 295,Sandy Springs,Georgia,99770,0.17
 296,Clovis,California,99769,0.43
-297,Flint,Michigan,99763,-0.20
+297,Flint,Michigan,99763,-0.2
 298,Roanoke,Virginia,98465,0.04
 299,Albany,New York,98424,0.04
 300,Jurupa Valley,California,98030,
 301,Compton,California,97877,0.05
-302,San Angelo,Texas,97492,0.10
+302,San Angelo,Texas,97492,0.1
 303,Hillsboro,Oregon,97368,0.36
 304,Lawton,Oklahoma,97151,0.05
 305,Renton,Washington,97003,0.88
@@ -315,7 +315,7 @@ rank,city,state,population,2000-2013 growth
 314,Livonia,Michigan,95208,-0.05
 315,New Bedford,Massachusetts,95078,0.01
 316,Vacaville,California,94275,0.05
-317,Brockton,Massachusetts,94089,0.00
+317,Brockton,Massachusetts,94089,0
 318,Roswell,Georgia,94034,0.15
 319,Beaverton,Oregon,93542,0.17
 320,Quincy,Massachusetts,93494,0.06
@@ -324,7 +324,7 @@ rank,city,state,population,2000-2013 growth
 323,Lee's Summit,Missouri,93184,0.31
 324,Federal Way,Washington,92734,0.09
 325,Carson,California,92599,0.03
-326,Santa Monica,California,92472,0.10
+326,Santa Monica,California,92472,0.1
 327,Hesperia,California,92147,0.46
 328,Allen,Texas,92020,1.04
 329,Rio Rancho,New Mexico,91956,0.74
@@ -344,30 +344,30 @@ rank,city,state,population,2000-2013 growth
 343,Macon,Georgia,89981,-0.07
 344,Longmont,Colorado,89919,0.24
 345,Boca Raton,Florida,89407,0.08
-346,San Marcos,California,89387,0.60
+346,San Marcos,California,89387,0.6
 347,Greenville,North Carolina,89130,0.42
 348,Waukegan,Illinois,88826,0.01
 349,Fall River,Massachusetts,88697,-0.04
 350,Chico,California,88077,0.14
 351,Newton,Massachusetts,87971,0.05
-352,San Leandro,California,87965,0.10
+352,San Leandro,California,87965,0.1
 353,Reading,Pennsylvania,87893,0.08
 354,Norwalk,Connecticut,87776,0.06
 355,Fort Smith,Arkansas,87650,0.09
-356,Newport Beach,California,87273,0.10
-357,Asheville,North Carolina,87236,0.20
-358,Nashua,New Hampshire,87137,0.00
+356,Newport Beach,California,87273,0.1
+357,Asheville,North Carolina,87236,0.2
+358,Nashua,New Hampshire,87137,0
 359,Edmond,Oklahoma,87004,0.27
 360,Whittier,California,86635,0.03
 361,Nampa,Idaho,86518,0.58
 362,Bloomington,Minnesota,86319,0.01
 363,Deltona,Florida,86290,0.23
 364,Hawthorne,California,86199,0.02
-365,Duluth,Minnesota,86128,0.00
-366,Carmel,Indiana,85927,0.60
+365,Duluth,Minnesota,86128,0
+366,Carmel,Indiana,85927,0.6
 367,Suffolk,Virginia,85728,0.34
 368,Clifton,New Jersey,85390,0.08
-369,Citrus Heights,California,85285,0.00
+369,Citrus Heights,California,85285,0
 370,Livermore,California,85156,0.15
 371,Tracy,California,84691,0.46
 372,Alhambra,California,84577,-0.01
@@ -405,12 +405,12 @@ rank,city,state,population,2000-2013 growth
 404,Edinburg,Texas,80836,0.65
 405,Cranston,Rhode Island,80566,0.01
 406,Parma,Ohio,80429,-0.06
-407,New Rochelle,New York,79446,0.10
+407,New Rochelle,New York,79446,0.1
 408,Lake Forest,California,79312,0.04
 409,Napa,California,79068,0.08
 410,Hammond,Indiana,78967,-0.05
 411,Fayetteville,Arkansas,78960,0.33
-412,Bloomington,Illinois,78902,0.20
+412,Bloomington,Illinois,78902,0.2
 413,Avondale,Arizona,78822,1.12
 414,Somerville,Massachusetts,78804,0.02
 415,Palm Coast,Florida,78740,1.37
@@ -421,8 +421,8 @@ rank,city,state,population,2000-2013 growth
 420,Tustin,California,78327,0.16
 421,Racine,Wisconsin,78199,-0.04
 422,Deerfield Beach,Florida,78041,0.05
-423,Lynchburg,Virginia,78014,0.20
-424,Mountain View,California,77846,0.10
+423,Lynchburg,Virginia,78014,0.2
+424,Mountain View,California,77846,0.1
 425,Medford,Oregon,77677,0.17
 426,Lawrence,Massachusetts,77657,0.08
 427,Bellflower,California,77593,0.06
@@ -436,11 +436,11 @@ rank,city,state,population,2000-2013 growth
 435,Alameda,California,76419,0.05
 436,Albany,Georgia,76185,-0.01
 437,Arlington Heights,Illinois,75994,-0.01
-438,Scranton,Pennsylvania,75806,0.00
+438,Scranton,Pennsylvania,75806,0
 439,Evanston,Illinois,75570,0.02
 440,Kalamazoo,Michigan,75548,-0.02
 441,Baytown,Texas,75418,0.13
-442,Upland,California,75413,0.10
+442,Upland,California,75413,0.1
 443,Springdale,Arkansas,75229,0.57
 444,Bethlehem,Pennsylvania,75018,0.05
 445,Schaumburg,Illinois,74907,-0.01
@@ -452,7 +452,7 @@ rank,city,state,population,2000-2013 growth
 451,Wyoming,Michigan,74100,0.07
 452,Lake Charles,Louisiana,74024,0.03
 453,Plymouth,Minnesota,73987,0.12
-454,Bolingbrook,Illinois,73936,0.30
+454,Bolingbrook,Illinois,73936,0.3
 455,Pharr,Texas,73790,0.56
 456,Appleton,Wisconsin,73596,0.05
 457,Gastonia,North Carolina,73209,0.08
@@ -461,7 +461,7 @@ rank,city,state,population,2000-2013 growth
 460,Rochester Hills,Michigan,72952,0.06
 461,New Britain,Connecticut,72939,0.02
 462,Goodyear,Arizona,72864,2.71
-463,Canton,Ohio,72535,-0.10
+463,Canton,Ohio,72535,-0.1
 464,Warner Robins,Georgia,72531,0.46
 465,Union City,California,72528,0.07
 466,Perris,California,72326,0.99
@@ -475,10 +475,10 @@ rank,city,state,population,2000-2013 growth
 474,Boynton Beach,Florida,71097,0.17
 475,Waukesha,Wisconsin,71016,0.08
 476,Gulfport,Mississippi,71012,-0.01
-477,Apple Valley,California,70924,0.30
+477,Apple Valley,California,70924,0.3
 478,Passaic,New Jersey,70868,0.04
 479,Rapid City,South Dakota,70812,0.18
-480,Layton,Utah,70790,0.20
+480,Layton,Utah,70790,0.2
 481,Lafayette,Indiana,70373,0.15
 482,Turlock,California,70365,0.24
 483,Muncie,Indiana,70316,-0.01
@@ -489,7 +489,7 @@ rank,city,state,population,2000-2013 growth
 488,Lauderhill,Florida,69813,0.04
 489,Milpitas,California,69783,0.11
 490,Palatine,Illinois,69350,0.05
-491,Missoula,Montana,69122,0.20
+491,Missoula,Montana,69122,0.2
 492,Rock Hill,South Carolina,69103,0.36
 493,Jacksonville,North Carolina,69079,0.05
 494,Franklin,Tennessee,68886,0.49
@@ -498,7 +498,7 @@ rank,city,state,population,2000-2013 growth
 497,Weston,Florida,68388,0.35
 498,Waterloo,Iowa,68366,-0.01
 499,Union City,New Jersey,68247,0.02
-500,Mount Vernon,New York,68224,0.00
+500,Mount Vernon,New York,68224,0
 501,Fort Myers,Florida,68190,0.31
 502,Dothan,Alabama,68001,0.17
 503,Rancho Cordova,California,67911,0.26
@@ -507,8 +507,8 @@ rank,city,state,population,2000-2013 growth
 506,Pasco,Washington,67599,0.99
 507,St. Charles,Missouri,67569,0.11
 508,Eau Claire,Wisconsin,67545,0.09
-509,North Richland Hills,Texas,67317,0.20
-510,Bismarck,North Dakota,67034,0.20
+509,North Richland Hills,Texas,67317,0.2
+510,Bismarck,North Dakota,67034,0.2
 511,Yorba Linda,California,67032,0.13
 512,Kenner,Louisiana,66975,-0.05
 513,Walnut Creek,California,66900,0.04
@@ -526,11 +526,11 @@ rank,city,state,population,2000-2013 growth
 525,Schenectady,New York,65902,0.07
 526,Gaithersburg,Maryland,65690,0.24
 527,Harlingen,Texas,65665,0.12
-528,Woodbury,Minnesota,65656,0.40
+528,Woodbury,Minnesota,65656,0.4
 529,Eagan,Minnesota,65453,0.03
 530,Yuba City,California,65416,0.28
 531,Maple Grove,Minnesota,65415,0.27
-532,Youngstown,Ohio,65184,-0.20
+532,Youngstown,Ohio,65184,-0.2
 533,Skokie,Illinois,65176,0.03
 534,Kissimmee,Florida,65173,0.33
 535,Johnson City,Tennessee,65123,0.16
@@ -545,10 +545,10 @@ rank,city,state,population,2000-2013 growth
 543,Delray Beach,Florida,64072,0.06
 545,Janesville,Wisconsin,63820,0.06
 546,Conway,Arkansas,63816,0.46
-547,Pico Rivera,California,63771,0.00
+547,Pico Rivera,California,63771,0
 548,Lorain,Ohio,63710,-0.07
 549,Montebello,California,63495,0.02
-550,Lodi,California,63338,0.10
+550,Lodi,California,63338,0.1
 551,New Braunfels,Texas,63279,0.64
 552,Marysville,Washington,63269,1.16
 553,Tamarac,Florida,63155,0.13
@@ -572,7 +572,7 @@ rank,city,state,population,2000-2013 growth
 571,Bowling Green,Kentucky,61488,0.24
 572,Burnsville,Minnesota,61434,0.02
 573,Greenville,South Carolina,61397,0.08
-574,West Des Moines,Iowa,61255,0.30
+574,West Des Moines,Iowa,61255,0.3
 575,Cedar Park,Texas,61238,1.34
 576,Tulare,California,61170,0.33
 577,Monterey Park,California,61085,0.02
@@ -581,7 +581,7 @@ rank,city,state,population,2000-2013 growth
 580,North Miami,Florida,61007,0.02
 581,Mansfield,Texas,60872,1.14
 582,West Allis,Wisconsin,60697,-0.01
-583,Bristol,Connecticut,60568,0.00
+583,Bristol,Connecticut,60568,0
 584,Taylorsville,Utah,60519,0.03
 585,Malden,Massachusetts,60509,0.07
 586,Meriden,Connecticut,60456,0.04
@@ -593,15 +593,15 @@ rank,city,state,population,2000-2013 growth
 592,St. Clair Shores,Michigan,60070,-0.05
 593,Gardena,California,59957,0.03
 594,Pontiac,Michigan,59887,-0.11
-595,National City,California,59834,0.10
+595,National City,California,59834,0.1
 596,Grand Junction,Colorado,59778,0.31
-597,Rocklin,California,59738,0.60
+597,Rocklin,California,59738,0.6
 598,Chapel Hill,North Carolina,59635,0.24
-599,Casper,Wyoming,59628,0.20
-600,Broomfield,Colorado,59471,0.50
+599,Casper,Wyoming,59628,0.2
+600,Broomfield,Colorado,59471,0.5
 601,Petaluma,California,59440,0.08
-602,South Jordan,Utah,59366,1.00
-603,Springfield,Ohio,59357,-0.10
+602,South Jordan,Utah,59366,1
+603,Springfield,Ohio,59357,-0.1
 604,Great Falls,Montana,59351,0.04
 605,Lancaster,Pennsylvania,59325,0.05
 606,North Port,Florida,59212,1.55
@@ -644,10 +644,10 @@ rank,city,state,population,2000-2013 growth
 643,Woodland,California,56590,0.14
 644,Noblesville,Indiana,56540,0.88
 645,Valdosta,Georgia,56481,0.22
-646,Diamond Bar,California,56449,0.00
+646,Diamond Bar,California,56449,0
 647,Manhattan,Kansas,56143,0.23
 648,Santee,California,56105,0.06
-649,Taunton,Massachusetts,56069,0.00
+649,Taunton,Massachusetts,56069,0
 650,Sanford,Florida,56002,0.43
 651,Kettering,Ohio,55870,-0.03
 652,New Brunswick,New Jersey,55831,0.16
@@ -659,7 +659,7 @@ rank,city,state,population,2000-2013 growth
 658,Hempstead,New York,55361,0.04
 659,Corvallis,Oregon,55298,0.12
 660,Eastvale,California,55191,
-661,Porterville,California,55174,0.20
+661,Porterville,California,55174,0.2
 662,West Haven,Connecticut,55046,0.05
 663,Brentwood,California,55000,1.22
 664,Paramount,California,54980,-0.01
@@ -668,8 +668,8 @@ rank,city,state,population,2000-2013 growth
 667,St. Peters,Missouri,54842,0.07
 668,Shoreline,Washington,54790,0.03
 669,Mount Prospect,Illinois,54771,-0.03
-670,Hanford,California,54686,0.30
-671,Normal,Illinois,54664,0.20
+670,Hanford,California,54686,0.3
+671,Normal,Illinois,54664,0.2
 672,Rosemead,California,54561,0.02
 673,Lehi,Utah,54382,1.76
 674,Pocatello,Idaho,54350,0.05
@@ -685,9 +685,9 @@ rank,city,state,population,2000-2013 growth
 684,Greenwood,Indiana,53665,0.46
 685,Bellevue,Nebraska,53663,0.21
 686,Wheaton,Illinois,53648,-0.03
-687,Smyrna,Georgia,53438,0.20
+687,Smyrna,Georgia,53438,0.2
 688,Sarasota,Florida,53326,0.01
-689,Blue Springs,Missouri,53294,0.10
+689,Blue Springs,Missouri,53294,0.1
 690,Colton,California,53243,0.11
 691,Euless,Texas,53224,0.15
 692,Castle Rock,Colorado,53063,1.54
@@ -704,10 +704,10 @@ rank,city,state,population,2000-2013 growth
 703,Florissant,Missouri,52363,-0.03
 704,Placentia,California,52206,0.12
 705,West New York,New Jersey,52122,0.13
-706,Dublin,California,52105,0.70
+706,Dublin,California,52105,0.7
 707,Oak Park,Illinois,52066,-0.01
 708,Peabody,Massachusetts,52044,0.08
-709,Perth Amboy,New Jersey,51982,0.10
+709,Perth Amboy,New Jersey,51982,0.1
 710,Battle Creek,Michigan,51848,-0.03
 711,Bradenton,Florida,51763,0.03
 712,Gilroy,California,51701,0.24
@@ -718,7 +718,7 @@ rank,city,state,population,2000-2013 growth
 717,Burlington,North Carolina,51510,0.12
 718,DeSoto,Texas,51483,0.36
 719,Harrisonburg,Virginia,51395,0.27
-720,Minnetonka,Minnesota,51368,0.00
+720,Minnetonka,Minnesota,51368,0
 721,Elkhart,Indiana,51265,-0.03
 722,Lakewood,Ohio,51143,-0.09
 723,Glendora,California,51074,0.03
@@ -726,7 +726,7 @@ rank,city,state,population,2000-2013 growth
 725,Charleston,West Virginia,50821,-0.05
 726,Joplin,Missouri,50789,0.11
 727,Enid,Oklahoma,50725,0.08
-728,Palm Beach Gardens,Florida,50699,0.40
+728,Palm Beach Gardens,Florida,50699,0.4
 729,Brookhaven,Georgia,50603,
 730,Plainfield,New Jersey,50588,0.06
 731,Grand Island,Nebraska,50550,0.16
@@ -749,13 +749,13 @@ rank,city,state,population,2000-2013 growth
 748,Commerce City,Colorado,49799,1.35
 749,Monroe,Louisiana,49761,-0.06
 750,Cerritos,California,49707,-0.04
-751,Downers Grove,Illinois,49670,0.00
+751,Downers Grove,Illinois,49670,0
 752,Coral Gables,Florida,49631,0.16
-753,Wilson,North Carolina,49628,0.10
+753,Wilson,North Carolina,49628,0.1
 754,Niagara Falls,New York,49468,-0.11
 755,Poway,California,49417,0.02
 756,Edina,Minnesota,49376,0.04
-757,Cuyahoga Falls,Ohio,49267,0.00
+757,Cuyahoga Falls,Ohio,49267,0
 758,Rancho Santa Margarita,California,49228,0.05
 759,Harrisburg,Pennsylvania,49188,0.01
 760,Huntington,West Virginia,49177,-0.05
@@ -771,7 +771,7 @@ rank,city,state,population,2000-2013 growth
 770,Parker,Colorado,48608,0.96
 771,Bedford,Texas,48592,0.03
 772,East Lansing,Michigan,48554,0.04
-773,Methuen,Massachusetts,48514,0.10
+773,Methuen,Massachusetts,48514,0.1
 774,Covina,California,48508,0.03
 775,Alexandria,Louisiana,48426,0.04
 776,Olympia,Washington,48338,0.12
@@ -790,21 +790,21 @@ rank,city,state,population,2000-2013 growth
 789,St. Louis Park,Minnesota,47411,0.07
 790,Collierville,Tennessee,47333,0.43
 791,Middletown,Connecticut,47333,0.04
-792,Stillwater,Oklahoma,47186,0.20
+792,Stillwater,Oklahoma,47186,0.2
 793,East Providence,Rhode Island,47149,-0.03
 794,Lawrence,Indiana,47135,0.21
-795,Wauwatosa,Wisconsin,47134,0.00
+795,Wauwatosa,Wisconsin,47134,0
 796,Mentor,Ohio,46979,-0.07
 797,Ceres,California,46714,0.34
 798,Cedar Hill,Texas,46663,0.42
-799,Mansfield,Ohio,46454,-0.10
+799,Mansfield,Ohio,46454,-0.1
 800,Binghamton,New York,46444,-0.02
 801,Coeur d'Alene,Idaho,46402,0.33
 802,San Luis Obispo,California,46377,0.04
 803,Minot,North Dakota,46321,0.27
 804,Palm Springs,California,46281,0.08
 805,Pine Bluff,Arkansas,46094,-0.16
-806,Texas City,Texas,46081,0.10
+806,Texas City,Texas,46081,0.1
 807,Summerville,South Carolina,46074,0.63
 808,Twin Falls,Idaho,45981,0.32
 809,Jeffersonville,Indiana,45929,0.53
@@ -818,7 +818,7 @@ rank,city,state,population,2000-2013 growth
 817,Maricopa,Arizona,45508,25.03
 818,Farmington,New Mexico,45426,0.18
 819,Glenview,Illinois,45417,0.05
-820,Cleveland Heights,Ohio,45394,-0.10
+820,Cleveland Heights,Ohio,45394,-0.1
 821,Draper,Utah,45285,0.77
 822,Lincoln,California,45237,2.85
 823,Sierra Vista,Arizona,45129,0.19
@@ -827,7 +827,7 @@ rank,city,state,population,2000-2013 growth
 826,Strongsville,Ohio,44730,0.02
 827,Barnstable Town,Massachusetts,44641,-0.07
 828,Wylie,Texas,44575,1.85
-829,Sayreville,New Jersey,44412,0.10
+829,Sayreville,New Jersey,44412,0.1
 830,Kannapolis,North Carolina,44359,0.19
 831,Charlottesville,Virginia,44349,0.11
 832,Littleton,Colorado,44275,0.09
@@ -872,18 +872,18 @@ rank,city,state,population,2000-2013 growth
 871,Apex,North Carolina,42214,0.99
 872,Midland,Michigan,42181,0.01
 873,Altamonte Springs,Florida,42150,0.02
-874,Hutchinson,Kansas,41889,0.00
+874,Hutchinson,Kansas,41889,0
 875,Buffalo Grove,Illinois,41778,-0.03
 876,Urbandale,Iowa,41776,0.42
 877,State College,Pennsylvania,41757,0.09
-878,Urbana,Illinois,41752,0.10
+878,Urbana,Illinois,41752,0.1
 879,Plainfield,Illinois,41734,2.04
-880,Manassas,Virginia,41705,0.20
+880,Manassas,Virginia,41705,0.2
 881,Bartlett,Illinois,41679,0.13
 882,Kearny,New Jersey,41664,0.03
 883,Oro Valley,Arizona,41627,0.27
 884,Findlay,Ohio,41512,0.06
-885,Rohnert Park,California,41398,0.00
+885,Rohnert Park,California,41398,0
 887,Westfield,Massachusetts,41301,0.03
 886,Linden,New Jersey,41301,0.05
 888,Sumter,South Carolina,41190,0.01
@@ -898,13 +898,13 @@ rank,city,state,population,2000-2013 growth
 897,Riverton,Utah,40921,0.62
 898,St. Cloud,Florida,40918,0.86
 899,Quincy,Illinois,40915,0.01
-900,Morgan Hill,California,40836,0.20
+900,Morgan Hill,California,40836,0.2
 901,Warren,Ohio,40768,-0.15
 902,Edmonds,Washington,40727,0.03
 903,Burleson,Texas,40714,0.85
 904,Beverly,Massachusetts,40664,0.02
 905,Mankato,Minnesota,40641,0.25
-906,Hagerstown,Maryland,40612,0.10
+906,Hagerstown,Maryland,40612,0.1
 907,Prescott,Arizona,40590,0.18
 908,Campbell,California,40584,0.04
 909,Cedar Falls,Iowa,40566,0.12
@@ -912,15 +912,15 @@ rank,city,state,population,2000-2013 growth
 911,La Puente,California,40435,-0.02
 912,Crystal Lake,Illinois,40388,0.05
 913,Fitchburg,Massachusetts,40383,0.04
-914,Carol Stream,Illinois,40379,0.00
+914,Carol Stream,Illinois,40379,0
 915,Hickory,North Carolina,40361,0.07
-916,Streamwood,Illinois,40351,0.10
+916,Streamwood,Illinois,40351,0.1
 917,Norwich,Connecticut,40347,0.12
-918,Coppell,Texas,40342,0.10
+918,Coppell,Texas,40342,0.1
 919,San Gabriel,California,40275,0.01
 920,Holyoke,Massachusetts,40249,0.01
 921,Bentonville,Arkansas,40167,0.98
-922,Florence,Alabama,40059,0.10
+922,Florence,Alabama,40059,0.1
 923,Peachtree Corners,Georgia,40059,
 924,Brentwood,Tennessee,40021,0.52
 925,Bozeman,Montana,39860,0.42
@@ -929,8 +929,8 @@ rank,city,state,population,2000-2013 growth
 928,Huntsville,Texas,39795,0.13
 929,Prescott Valley,Arizona,39791,0.63
 930,Maplewood,Minnesota,39765,0.12
-931,Romeoville,Illinois,39650,0.80
-932,Duncanville,Texas,39605,0.10
+931,Romeoville,Illinois,39650,0.8
+932,Duncanville,Texas,39605,0.1
 933,Atlantic City,New Jersey,39551,-0.02
 934,Clovis,New Mexico,39508,0.21
 935,The Colony,Texas,39458,0.46
@@ -941,7 +941,7 @@ rank,city,state,population,2000-2013 growth
 940,Calexico,California,39389,0.44
 941,Bullhead City,Arizona,39383,0.16
 942,Germantown,Tennessee,39375,0.04
-943,La Quinta,California,39331,0.60
+943,La Quinta,California,39331,0.6
 944,Lancaster,Ohio,39325,0.11
 945,Wausau,Wisconsin,39309,0.02
 946,Sherman,Texas,39296,0.12
@@ -965,13 +965,13 @@ rank,city,state,population,2000-2013 growth
 964,Marana,Arizona,38290,1.66
 965,Carpentersville,Illinois,38241,0.23
 966,Oakley,California,38194,0.48
-967,Huber Heights,Ohio,38142,0.00
+967,Huber Heights,Ohio,38142,0
 968,Lancaster,Texas,38071,0.46
 969,Montclair,California,38027,0.12
 970,Wheeling,Illinois,38015,0.05
 971,Brookfield,Wisconsin,37999,-0.02
-972,Park Ridge,Illinois,37839,0.00
-973,Florence,South Carolina,37792,0.20
+972,Park Ridge,Illinois,37839,0
+973,Florence,South Carolina,37792,0.2
 974,Roy,Utah,37733,0.13
 975,Winter Garden,Florida,37711,1.43
 976,Chelsea,Massachusetts,37670,0.07
@@ -993,9 +993,9 @@ rank,city,state,population,2000-2013 growth
 992,Martinez,California,37165,0.03
 993,Greenfield,Wisconsin,37159,0.05
 994,Apache Junction,Arizona,37130,0.16
-995,Monrovia,California,37101,0.00
+995,Monrovia,California,37101,0
 996,Weslaco,Texas,37093,0.29
 997,Keizer,Oregon,37064,0.14
 998,Spanish Fork,Utah,36956,0.78
 999,Beloit,Wisconsin,36888,0.03
-1000,Panama City,Florida,36877,0.00
+1000,Panama City,Florida,36877,0
